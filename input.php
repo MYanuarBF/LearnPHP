@@ -2,7 +2,6 @@
 <html>
 <head>
 	<title>Inputan Database</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
  	<br/>
@@ -21,7 +20,7 @@
 			</tr>
 			<tr>
 				<td>Password</td>
-				<td><input type="text" name="password"></td>
+				<td><input type="password" name="password"></td>
 			</tr>
 			<tr>
 				<td>Level</td>
